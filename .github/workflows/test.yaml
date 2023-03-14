@@ -39,3 +39,6 @@ jobs:
       - name: Test with pytest
         run: |
           pytest
+      # Generate badges for readMe
+      - name: Generate badges
+        run: curl https://img.shields.io/github/workflow/status/rpdev63/brief-cicd-githubonly/test?label=tests&logo=github&style=flat-square > tests.svg
