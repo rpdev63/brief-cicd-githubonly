@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <title>KryptX - Vigenère Cipher</title>
+    <link rel="stylesheet" href="{{ url_for('static',filename='styles/base_style.css') }}" />
+    <link rel="stylesheet" href="{{ url_for('static',filename='styles/encryption_pages.css') }}" />
+    <link rel='icon' href="{{ url_for('static',filename='files/favicon.ico') }}" type='image/x-icon' />
+    <script src="{{ url_for('static',filename='js/base_script.js') }}"></script>
+</head>
+
+<body>
+
+    <nav class="navigation_bar">
+        <div class="logo_container">
+            <a href="/"><img src="{{ url_for('static',filename='files/logo.png') }}" alt="logo" class="logo" /></a>
+        </div>
+        <div class="dropdown">
+            <div class="dropbtn">
+                <span>ALL ENCRYPTION METHODS</span>
+            </div>
+            <div class="dropdown-content">
+                {% for item in allAlgos %}
+                <a href="{{ item[1] }}">{{ item[0] }}</a>
+                {% endfor %}
+            </div>
+        </div>
+        <div class="dropdown">
+            <div class="dropbtn">
+                <span>HISTORICAL</span>
+            </div>
+            <div class="dropdown-content">
+                {% for item in historicalAlgos %}
+                <a href="{{ item[1] }}">{{ item[0] }}</a>
+                {% endfor %}
+            </div>
+        </div>
+        <div class="dropdown">
+            <div class="dropbtn">
+                <span>OUTDATED</span>
+            </div>
+            <div class="dropdown-content">
+                {% for item in outdatedAlgos %}
+                <a href="{{ item[1] }}">{{ item[0] }}</a>
+                {% endfor %}
+            </div>
+        </div>
+        <div class="dropdown">
+            <div class="dropbtn">
+                <span>MODERN</span>
+            </div>
+            <div class="dropdown-content">
+                {% for item in modernAlgos %}
+                <a href="{{ item[1] }}">{{ item[0] }}</a>
+                {% endfor %}
+            </div>
+        </div>
+        <div class="dropdown">
+            <div class="dropbtn">
+                <span>HASHING</span>
+            </div>
+            <div class="dropdown-content">
+                {% for item in hashingAlgos %}
+                <a href="{{ item[1] }}">{{ item[0] }}</a>
+                {% endfor %}
+            </div>
+        </div>
+    </nav>
+    {% block content%} {% endblock %}
+</body>
+<footer>
+    <p>©2020 KryptX, Vincent Papelard</p>
+</footer>
+
+</html>

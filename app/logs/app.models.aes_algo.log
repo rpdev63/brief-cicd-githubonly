@@ -1,0 +1,152 @@
+2023-03-12 22:12:47,349 - ERROR - app.models.aes_algo - Error during the encryption of a message with DES. The message must be a string
+2023-03-12 22:12:47,349 - ERROR - app.models.aes_algo - Error during the encryption of a message with DES. The message must be a string
+2023-03-12 22:12:47,349 - ERROR - app.models.aes_algo - Error during the encryption of a message with DES. The message must be a string
+2023-03-12 22:12:47,352 - ERROR - app.models.aes_algo - Error during the encryption of a message with DES. The key must be a string in ASCII format of length 16, 24 or 32
+2023-03-12 22:12:47,352 - ERROR - app.models.aes_algo - Error during the encryption of a message with DES. The key must be a string in ASCII format of length 16, 24 or 32
+2023-03-12 22:12:47,352 - ERROR - app.models.aes_algo - Error during the encryption of a message with DES. The key must be a string in ASCII format of length 16, 24 or 32
+2023-03-12 22:12:47,352 - ERROR - app.models.aes_algo - Error during the encryption of a message with DES. The key must be a string in ASCII format of length 16, 24 or 32
+2023-03-12 22:12:47,361 - ERROR - app.models.aes_algo - Error during the encryption of a message with DES. The key must be a string in ASCII format of length 16, 24 or 32
+2023-03-12 22:12:47,361 - ERROR - app.models.aes_algo - Error during the encryption of a message with DES. The key must be a string in ASCII format of length 16, 24 or 32
+2023-03-12 22:12:47,361 - ERROR - app.models.aes_algo - Error during the encryption of a message with DES. The key must be a string in ASCII format of length 16, 24 or 32
+2023-03-12 22:12:47,361 - ERROR - app.models.aes_algo - Error during the encryption of a message with DES. The key must be a string in ASCII format of length 16, 24 or 32
+2023-03-12 22:12:47,361 - ERROR - app.models.aes_algo - Error during the encryption of a message with DES. The key must be a string in ASCII format of length 16, 24 or 32
+2023-03-12 22:22:49,230 - ERROR - app.models.aes_algo - Error during the encryption of a message with DES. The message must be a string
+2023-03-12 22:22:49,230 - ERROR - app.models.aes_algo - Error during the encryption of a message with DES. The message must be a string
+2023-03-12 22:22:49,230 - ERROR - app.models.aes_algo - Error during the encryption of a message with DES. The message must be a string
+2023-03-12 22:22:49,239 - ERROR - app.models.aes_algo - Error during the encryption of a message with DES. The key must be a string in ASCII format of length 16, 24 or 32
+2023-03-12 22:22:49,239 - ERROR - app.models.aes_algo - Error during the encryption of a message with DES. The key must be a string in ASCII format of length 16, 24 or 32
+2023-03-12 22:22:49,239 - ERROR - app.models.aes_algo - Error during the encryption of a message with DES. The key must be a string in ASCII format of length 16, 24 or 32
+2023-03-12 22:22:49,239 - ERROR - app.models.aes_algo - Error during the encryption of a message with DES. The key must be a string in ASCII format of length 16, 24 or 32
+2023-03-12 22:22:49,239 - ERROR - app.models.aes_algo - Error during the encryption of a message with DES. The key must be a string in ASCII format of length 16, 24 or 32
+2023-03-12 22:22:49,248 - ERROR - app.models.aes_algo - Error during the encryption of a message with DES. The message must be a string
+2023-03-12 22:22:49,248 - ERROR - app.models.aes_algo - Error during the encryption of a message with DES. The message must be a string
+2023-03-12 22:22:49,248 - ERROR - app.models.aes_algo - Error during the encryption of a message with DES. The message must be a string
+2023-03-12 22:22:49,248 - ERROR - app.models.aes_algo - Error during the encryption of a message with DES. The message must be a string
+2023-03-12 22:22:49,248 - ERROR - app.models.aes_algo - Error during the encryption of a message with DES. The message must be a string
+2023-03-12 22:22:49,248 - ERROR - app.models.aes_algo - Error during the encryption of a message with DES. The message must be a string
+2023-03-12 22:22:49,248 - ERROR - app.models.aes_algo - Error during the encryption of a message with DES. The message must be a string
+2023-03-12 22:28:47,054 - ERROR - app.models.aes_algo - Error during the encryption of a message with DES. The message must be a string
+2023-03-12 22:28:47,054 - ERROR - app.models.aes_algo - Error during the encryption of a message with DES. The message must be a string
+2023-03-12 22:28:47,054 - ERROR - app.models.aes_algo - Error during the encryption of a message with DES. The message must be a string
+2023-03-12 22:28:47,064 - ERROR - app.models.aes_algo - Error during the encryption of a message with DES. The key must be a string in ASCII format of length 16, 24 or 32
+2023-03-12 22:28:47,064 - ERROR - app.models.aes_algo - Error during the encryption of a message with DES. The key must be a string in ASCII format of length 16, 24 or 32
+2023-03-12 22:28:47,064 - ERROR - app.models.aes_algo - Error during the encryption of a message with DES. The key must be a string in ASCII format of length 16, 24 or 32
+2023-03-12 22:28:47,064 - ERROR - app.models.aes_algo - Error during the encryption of a message with DES. The key must be a string in ASCII format of length 16, 24 or 32
+2023-03-12 22:28:47,064 - ERROR - app.models.aes_algo - Error during the encryption of a message with DES. The key must be a string in ASCII format of length 16, 24 or 32
+2023-03-12 22:28:47,071 - ERROR - app.models.aes_algo - Error during the encryption of a message with DES. The message must be a string
+2023-03-12 22:28:47,071 - ERROR - app.models.aes_algo - Error during the encryption of a message with DES. The message must be a string
+2023-03-12 22:28:47,071 - ERROR - app.models.aes_algo - Error during the encryption of a message with DES. The message must be a string
+2023-03-12 22:28:47,071 - ERROR - app.models.aes_algo - Error during the encryption of a message with DES. The message must be a string
+2023-03-12 22:28:47,071 - ERROR - app.models.aes_algo - Error during the encryption of a message with DES. The message must be a string
+2023-03-12 22:28:47,071 - ERROR - app.models.aes_algo - Error during the encryption of a message with DES. The message must be a string
+2023-03-12 22:28:47,071 - ERROR - app.models.aes_algo - Error during the encryption of a message with DES. The message must be a string
+2023-03-12 22:31:20,372 - ERROR - app.models.aes_algo - Error during the encryption of a message with DES. The message must be a string
+2023-03-12 22:31:20,372 - ERROR - app.models.aes_algo - Error during the encryption of a message with DES. The message must be a string
+2023-03-12 22:31:20,372 - ERROR - app.models.aes_algo - Error during the encryption of a message with DES. The message must be a string
+2023-03-12 22:31:20,376 - ERROR - app.models.aes_algo - Error during the encryption of a message with DES. The key must be a string in ASCII format of length 16, 24 or 32
+2023-03-12 22:31:20,376 - ERROR - app.models.aes_algo - Error during the encryption of a message with DES. The key must be a string in ASCII format of length 16, 24 or 32
+2023-03-12 22:31:20,376 - ERROR - app.models.aes_algo - Error during the encryption of a message with DES. The key must be a string in ASCII format of length 16, 24 or 32
+2023-03-12 22:31:20,376 - ERROR - app.models.aes_algo - Error during the encryption of a message with DES. The key must be a string in ASCII format of length 16, 24 or 32
+2023-03-12 22:31:20,379 - ERROR - app.models.aes_algo - Error during the encryption of a message with DES. The key must be a string in ASCII format of length 16, 24 or 32
+2023-03-12 22:31:20,379 - ERROR - app.models.aes_algo - Error during the encryption of a message with DES. The key must be a string in ASCII format of length 16, 24 or 32
+2023-03-12 22:31:20,379 - ERROR - app.models.aes_algo - Error during the encryption of a message with DES. The key must be a string in ASCII format of length 16, 24 or 32
+2023-03-12 22:31:20,379 - ERROR - app.models.aes_algo - Error during the encryption of a message with DES. The key must be a string in ASCII format of length 16, 24 or 32
+2023-03-12 22:31:20,379 - ERROR - app.models.aes_algo - Error during the encryption of a message with DES. The key must be a string in ASCII format of length 16, 24 or 32
+2023-03-12 22:31:20,388 - ERROR - app.models.aes_algo - Error during the encryption of a message with DES. The message must be a string
+2023-03-12 22:31:20,388 - ERROR - app.models.aes_algo - Error during the encryption of a message with DES. The message must be a string
+2023-03-12 22:31:20,388 - ERROR - app.models.aes_algo - Error during the encryption of a message with DES. The message must be a string
+2023-03-12 22:31:20,388 - ERROR - app.models.aes_algo - Error during the encryption of a message with DES. The message must be a string
+2023-03-12 22:31:20,388 - ERROR - app.models.aes_algo - Error during the encryption of a message with DES. The message must be a string
+2023-03-12 22:31:20,388 - ERROR - app.models.aes_algo - Error during the encryption of a message with DES. The message must be a string
+2023-03-12 22:31:20,388 - ERROR - app.models.aes_algo - Error during the encryption of a message with DES. The message must be a string
+2023-03-12 22:32:19,224 - ERROR - app.models.aes_algo - Error during the encryption of a message with DES. The message must be a string
+2023-03-12 22:32:19,224 - ERROR - app.models.aes_algo - Error during the encryption of a message with DES. The message must be a string
+2023-03-12 22:32:19,224 - ERROR - app.models.aes_algo - Error during the encryption of a message with DES. The message must be a string
+2023-03-12 22:32:19,228 - ERROR - app.models.aes_algo - Error during the encryption of a message with DES. The key must be a string in ASCII format of length 16, 24 or 32
+2023-03-12 22:32:19,228 - ERROR - app.models.aes_algo - Error during the encryption of a message with DES. The key must be a string in ASCII format of length 16, 24 or 32
+2023-03-12 22:32:19,228 - ERROR - app.models.aes_algo - Error during the encryption of a message with DES. The key must be a string in ASCII format of length 16, 24 or 32
+2023-03-12 22:32:19,228 - ERROR - app.models.aes_algo - Error during the encryption of a message with DES. The key must be a string in ASCII format of length 16, 24 or 32
+2023-03-12 22:32:19,231 - ERROR - app.models.aes_algo - Error during the encryption of a message with DES. The key must be a string in ASCII format of length 16, 24 or 32
+2023-03-12 22:32:19,231 - ERROR - app.models.aes_algo - Error during the encryption of a message with DES. The key must be a string in ASCII format of length 16, 24 or 32
+2023-03-12 22:32:19,231 - ERROR - app.models.aes_algo - Error during the encryption of a message with DES. The key must be a string in ASCII format of length 16, 24 or 32
+2023-03-12 22:32:19,231 - ERROR - app.models.aes_algo - Error during the encryption of a message with DES. The key must be a string in ASCII format of length 16, 24 or 32
+2023-03-12 22:32:19,231 - ERROR - app.models.aes_algo - Error during the encryption of a message with DES. The key must be a string in ASCII format of length 16, 24 or 32
+2023-03-12 22:32:19,236 - ERROR - app.models.aes_algo - Error during the encryption of a message with DES. The message must be a string
+2023-03-12 22:32:19,236 - ERROR - app.models.aes_algo - Error during the encryption of a message with DES. The message must be a string
+2023-03-12 22:32:19,236 - ERROR - app.models.aes_algo - Error during the encryption of a message with DES. The message must be a string
+2023-03-12 22:32:19,236 - ERROR - app.models.aes_algo - Error during the encryption of a message with DES. The message must be a string
+2023-03-12 22:32:19,236 - ERROR - app.models.aes_algo - Error during the encryption of a message with DES. The message must be a string
+2023-03-12 22:32:19,236 - ERROR - app.models.aes_algo - Error during the encryption of a message with DES. The message must be a string
+2023-03-12 22:32:19,236 - ERROR - app.models.aes_algo - Error during the encryption of a message with DES. The message must be a string
+2023-03-12 22:34:19,679 - ERROR - app.models.aes_algo - Error during the encryption of a message with DES. The message must be a string
+2023-03-12 22:34:19,679 - ERROR - app.models.aes_algo - Error during the encryption of a message with DES. The message must be a string
+2023-03-12 22:34:19,679 - ERROR - app.models.aes_algo - Error during the encryption of a message with DES. The message must be a string
+2023-03-12 22:34:19,683 - ERROR - app.models.aes_algo - Error during the encryption of a message with DES. The key must be a string in ASCII format of length 16, 24 or 32
+2023-03-12 22:34:19,683 - ERROR - app.models.aes_algo - Error during the encryption of a message with DES. The key must be a string in ASCII format of length 16, 24 or 32
+2023-03-12 22:34:19,683 - ERROR - app.models.aes_algo - Error during the encryption of a message with DES. The key must be a string in ASCII format of length 16, 24 or 32
+2023-03-12 22:34:19,683 - ERROR - app.models.aes_algo - Error during the encryption of a message with DES. The key must be a string in ASCII format of length 16, 24 or 32
+2023-03-12 22:34:19,687 - ERROR - app.models.aes_algo - Error during the encryption of a message with DES. The key must be a string in ASCII format of length 16, 24 or 32
+2023-03-12 22:34:19,687 - ERROR - app.models.aes_algo - Error during the encryption of a message with DES. The key must be a string in ASCII format of length 16, 24 or 32
+2023-03-12 22:34:19,687 - ERROR - app.models.aes_algo - Error during the encryption of a message with DES. The key must be a string in ASCII format of length 16, 24 or 32
+2023-03-12 22:34:19,687 - ERROR - app.models.aes_algo - Error during the encryption of a message with DES. The key must be a string in ASCII format of length 16, 24 or 32
+2023-03-12 22:34:19,687 - ERROR - app.models.aes_algo - Error during the encryption of a message with DES. The key must be a string in ASCII format of length 16, 24 or 32
+2023-03-12 22:34:19,693 - ERROR - app.models.aes_algo - Error during the decryption of a message with DES. The message must be a string
+2023-03-12 22:34:19,693 - ERROR - app.models.aes_algo - Error during the decryption of a message with DES. The message must be a string
+2023-03-12 22:34:19,693 - ERROR - app.models.aes_algo - Error during the decryption of a message with DES. The message must be a string
+2023-03-12 22:34:19,693 - ERROR - app.models.aes_algo - Error during the decryption of a message with DES. The message must be a string
+2023-03-12 22:34:19,693 - ERROR - app.models.aes_algo - Error during the decryption of a message with DES. The message must be a string
+2023-03-12 22:34:19,693 - ERROR - app.models.aes_algo - Error during the decryption of a message with DES. The message must be a string
+2023-03-12 22:34:19,693 - ERROR - app.models.aes_algo - Error during the decryption of a message with DES. The message must be a string
+2023-03-12 22:34:19,697 - ERROR - app.models.aes_algo - Error during the decryption of a message with DES. The key must be an string in ASCII format of length 16, 24 or 32
+2023-03-12 22:34:19,697 - ERROR - app.models.aes_algo - Error during the decryption of a message with DES. The key must be an string in ASCII format of length 16, 24 or 32
+2023-03-12 22:34:19,697 - ERROR - app.models.aes_algo - Error during the decryption of a message with DES. The key must be an string in ASCII format of length 16, 24 or 32
+2023-03-12 22:34:19,697 - ERROR - app.models.aes_algo - Error during the decryption of a message with DES. The key must be an string in ASCII format of length 16, 24 or 32
+2023-03-12 22:34:19,697 - ERROR - app.models.aes_algo - Error during the decryption of a message with DES. The key must be an string in ASCII format of length 16, 24 or 32
+2023-03-12 22:34:19,697 - ERROR - app.models.aes_algo - Error during the decryption of a message with DES. The key must be an string in ASCII format of length 16, 24 or 32
+2023-03-12 22:34:19,697 - ERROR - app.models.aes_algo - Error during the decryption of a message with DES. The key must be an string in ASCII format of length 16, 24 or 32
+2023-03-12 22:34:19,697 - ERROR - app.models.aes_algo - Error during the decryption of a message with DES. The key must be an string in ASCII format of length 16, 24 or 32
+2023-03-12 22:34:19,703 - ERROR - app.models.aes_algo - Error during the decryption of a message with DES. The key must be an string in ASCII format of length 16, 24 or 32
+2023-03-12 22:34:19,703 - ERROR - app.models.aes_algo - Error during the decryption of a message with DES. The key must be an string in ASCII format of length 16, 24 or 32
+2023-03-12 22:34:19,703 - ERROR - app.models.aes_algo - Error during the decryption of a message with DES. The key must be an string in ASCII format of length 16, 24 or 32
+2023-03-12 22:34:19,703 - ERROR - app.models.aes_algo - Error during the decryption of a message with DES. The key must be an string in ASCII format of length 16, 24 or 32
+2023-03-12 22:34:19,703 - ERROR - app.models.aes_algo - Error during the decryption of a message with DES. The key must be an string in ASCII format of length 16, 24 or 32
+2023-03-12 22:34:19,703 - ERROR - app.models.aes_algo - Error during the decryption of a message with DES. The key must be an string in ASCII format of length 16, 24 or 32
+2023-03-12 22:34:19,703 - ERROR - app.models.aes_algo - Error during the decryption of a message with DES. The key must be an string in ASCII format of length 16, 24 or 32
+2023-03-12 22:34:19,703 - ERROR - app.models.aes_algo - Error during the decryption of a message with DES. The key must be an string in ASCII format of length 16, 24 or 32
+2023-03-12 22:34:19,703 - ERROR - app.models.aes_algo - Error during the decryption of a message with DES. The key must be an string in ASCII format of length 16, 24 or 32
+2023-03-12 22:38:26,878 - ERROR - app.models.aes_algo - Error during the encryption of a message with DES. The message must be a string
+2023-03-12 22:38:26,878 - ERROR - app.models.aes_algo - Error during the encryption of a message with DES. The message must be a string
+2023-03-12 22:38:26,878 - ERROR - app.models.aes_algo - Error during the encryption of a message with DES. The message must be a string
+2023-03-12 22:38:26,881 - ERROR - app.models.aes_algo - Error during the encryption of a message with DES. The key must be a string in ASCII format of length 16, 24 or 32
+2023-03-12 22:38:26,881 - ERROR - app.models.aes_algo - Error during the encryption of a message with DES. The key must be a string in ASCII format of length 16, 24 or 32
+2023-03-12 22:38:26,881 - ERROR - app.models.aes_algo - Error during the encryption of a message with DES. The key must be a string in ASCII format of length 16, 24 or 32
+2023-03-12 22:38:26,881 - ERROR - app.models.aes_algo - Error during the encryption of a message with DES. The key must be a string in ASCII format of length 16, 24 or 32
+2023-03-12 22:38:26,885 - ERROR - app.models.aes_algo - Error during the encryption of a message with DES. The key must be a string in ASCII format of length 16, 24 or 32
+2023-03-12 22:38:26,885 - ERROR - app.models.aes_algo - Error during the encryption of a message with DES. The key must be a string in ASCII format of length 16, 24 or 32
+2023-03-12 22:38:26,885 - ERROR - app.models.aes_algo - Error during the encryption of a message with DES. The key must be a string in ASCII format of length 16, 24 or 32
+2023-03-12 22:38:26,885 - ERROR - app.models.aes_algo - Error during the encryption of a message with DES. The key must be a string in ASCII format of length 16, 24 or 32
+2023-03-12 22:38:26,885 - ERROR - app.models.aes_algo - Error during the encryption of a message with DES. The key must be a string in ASCII format of length 16, 24 or 32
+2023-03-12 22:38:26,891 - ERROR - app.models.aes_algo - Error during the decryption of a message with DES. The message must be a string
+2023-03-12 22:38:26,891 - ERROR - app.models.aes_algo - Error during the decryption of a message with DES. The message must be a string
+2023-03-12 22:38:26,891 - ERROR - app.models.aes_algo - Error during the decryption of a message with DES. The message must be a string
+2023-03-12 22:38:26,891 - ERROR - app.models.aes_algo - Error during the decryption of a message with DES. The message must be a string
+2023-03-12 22:38:26,891 - ERROR - app.models.aes_algo - Error during the decryption of a message with DES. The message must be a string
+2023-03-12 22:38:26,891 - ERROR - app.models.aes_algo - Error during the decryption of a message with DES. The message must be a string
+2023-03-12 22:38:26,891 - ERROR - app.models.aes_algo - Error during the decryption of a message with DES. The message must be a string
+2023-03-12 22:38:26,895 - ERROR - app.models.aes_algo - Error during the decryption of a message with DES. The key must be an string in ASCII format of length 16, 24 or 32
+2023-03-12 22:38:26,895 - ERROR - app.models.aes_algo - Error during the decryption of a message with DES. The key must be an string in ASCII format of length 16, 24 or 32
+2023-03-12 22:38:26,895 - ERROR - app.models.aes_algo - Error during the decryption of a message with DES. The key must be an string in ASCII format of length 16, 24 or 32
+2023-03-12 22:38:26,895 - ERROR - app.models.aes_algo - Error during the decryption of a message with DES. The key must be an string in ASCII format of length 16, 24 or 32
+2023-03-12 22:38:26,895 - ERROR - app.models.aes_algo - Error during the decryption of a message with DES. The key must be an string in ASCII format of length 16, 24 or 32
+2023-03-12 22:38:26,895 - ERROR - app.models.aes_algo - Error during the decryption of a message with DES. The key must be an string in ASCII format of length 16, 24 or 32
+2023-03-12 22:38:26,895 - ERROR - app.models.aes_algo - Error during the decryption of a message with DES. The key must be an string in ASCII format of length 16, 24 or 32
+2023-03-12 22:38:26,895 - ERROR - app.models.aes_algo - Error during the decryption of a message with DES. The key must be an string in ASCII format of length 16, 24 or 32
+2023-03-12 22:38:26,900 - ERROR - app.models.aes_algo - Error during the decryption of a message with DES. The key must be an string in ASCII format of length 16, 24 or 32
+2023-03-12 22:38:26,900 - ERROR - app.models.aes_algo - Error during the decryption of a message with DES. The key must be an string in ASCII format of length 16, 24 or 32
+2023-03-12 22:38:26,900 - ERROR - app.models.aes_algo - Error during the decryption of a message with DES. The key must be an string in ASCII format of length 16, 24 or 32
+2023-03-12 22:38:26,900 - ERROR - app.models.aes_algo - Error during the decryption of a message with DES. The key must be an string in ASCII format of length 16, 24 or 32
+2023-03-12 22:38:26,900 - ERROR - app.models.aes_algo - Error during the decryption of a message with DES. The key must be an string in ASCII format of length 16, 24 or 32
+2023-03-12 22:38:26,900 - ERROR - app.models.aes_algo - Error during the decryption of a message with DES. The key must be an string in ASCII format of length 16, 24 or 32
+2023-03-12 22:38:26,900 - ERROR - app.models.aes_algo - Error during the decryption of a message with DES. The key must be an string in ASCII format of length 16, 24 or 32
+2023-03-12 22:38:26,900 - ERROR - app.models.aes_algo - Error during the decryption of a message with DES. The key must be an string in ASCII format of length 16, 24 or 32
+2023-03-12 22:38:26,900 - ERROR - app.models.aes_algo - Error during the decryption of a message with DES. The key must be an string in ASCII format of length 16, 24 or 32

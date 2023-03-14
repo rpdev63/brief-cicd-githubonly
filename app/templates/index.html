@@ -1,0 +1,30 @@
+{% extends 'base.html' %}
+{% block content %}
+<marquee behavior="alternate" scrollamount="50">
+    <marquee behavior="alternate" scrollamount="30" direction="down">
+        <img id="moving-img" src="{{ url_for('static',filename='files/valentin.png') }}" alt="" srcset="">
+    </marquee>
+
+</marquee>
+<marquee behavior="alternate" scrollamount="20">
+    <marquee behavior="alternate" scrollamount="10" direction="up">
+        <img id="moving-img2" src="{{ url_for('static',filename='files/vincent.png') }}" alt="" srcset="">
+    </marquee>
+</marquee>
+<div class="homepage_main_zone">
+
+    <div>
+        <h1>Welcome to KryptX</h1>
+        <h2>Choose an encryption algorithm in the navigation bar above</h2>
+    </div>
+    <div class="warning_message">
+        <img src="{{ url_for('static',filename='files/warning.png') }}" alt="warning" />
+        <span>This app is offered for educational purposes only. It should NEVER be used as a reliable way to encrypt or
+            hash your data. In no event shall the creator of this application be liable for any data loss or theft
+            arising from the use of this app</span>
+    </div>
+
+
+
+</div>
+{% endblock %}
